@@ -1,0 +1,9 @@
+# drand anchor
+
+Fetched 2026-11-25T14:20:40+07:00 (2026-11-25T07:20:40Z) from
+https://api.drand.sh/public/latest, after the competition opened
+(2026-11-24T21:55:06Z).
+
+- Round: 6672007
+- Randomness: fda7635854229d5a40426e2a8adeeed6aa34507633816a9ee5b928f4e5e77b9f
+- Signature: 80be25adf7e64971fb6579f90dd404a83bc5334384630b26f31f2d9a838a4da7767fee7ad63356a0ae1f80f08e9a75ff11fb25485274361390e1a7a9a568b08f33e5a7a76da273706fbcca2a7733576bc9e31703d18b1d253a3d0310a9631f1e
